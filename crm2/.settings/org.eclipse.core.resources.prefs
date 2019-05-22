@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebRoot/css/style.css=UTF-8
+encoding//WebRoot/script/autoFill.js=UTF-8
+encoding//WebRoot/script/weebox.js=UTF-8
+encoding//src/tcx/dao/LostDao.java=UTF-8
+encoding//src/tcx/dao/OrderDao.java=UTF-8
+encoding//src/tcx/dao/ServiceDao.java=UTF-8
+encoding//src/zxh/servlet/cust/service/DispatchServlet.java=UTF-8
+encoding//src/zxh/servlet/cust/service/SavePageNumServlet.java=UTF-8
+encoding//src/zxh/zxh/dao/AddDao.java=UTF-8
+encoding//src/zxh/zxh/dao/ServiceDao.java=UTF-8
+encoding//src/zxh/zxh/dao/UserDao.java=UTF-8
+encoding//src/zxh/zxh/util/Customer.java=UTF-8
+encoding//src/zxh/zxh/util/Service.java=UTF-8
